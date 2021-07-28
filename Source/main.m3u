@@ -1,14 +1,118 @@
-#EXTM3U
-#EXTINF:-1,|HINDI| CORONA VIRUS INFO
-http://pn.tvott.info:80/307200113544/307200113544/83718
+#EXTM3U x-tvg-url="https://ultimateiptv.tk/epg.xml.gz"
+#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-marathi-logo.jpg" group-title="",Zee Marathi USA
+https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-talkies-logo.jpg" group-title="",Zee Talkies
+https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeeaction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-action-logo.jpg" group-title="",Zee Action
+http://pn.tvott.info:80/307200113544/307200113544/83716
+#EXTINF:-1 tvg-id="Zeetvhd.in" tvg-name="Zee TV HD" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-logo.jpg" group-title="",Zee TV HD
+http://pn.tvott.info:80/307200113544/307200113544/83715
+#EXTINF:-1 tvg-id="ZeeCinemahd.in" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-cinema-logo.jpg" group-title="",Zee Cinema HD
+http://pn.tvott.info:80/307200113544/307200113544/83714
+#EXTINF:-1 tvg-id="Zee24.in" tvg-name="Zee 24" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee 24
+https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee24.in" tvg-name="Zee 24" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee 24
+https://y5w8j4a9.ssl.hwcdn.net/kalak/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Action
+https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Anmol Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bihar Jharkhand
+https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bihar Jharkhand
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop (360p)
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-cafe-logo.jpg" group-title="",Zee Cafe
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema Middle East
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema Middle East
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUSA.in" tvg-name="Zee Cinema USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-classic-logo.jpg" group-title="",Zee Classic
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Classic
+https://y5w8j4a9.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-marathi-logo.jpg" group-title="",Zee Marathi USA
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-music-logo.jpg" group-title="",Zee Music
+https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Music
+https://y5w8j4a9.ssl.hwcdn.net/magic/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNewsMPCG.in" tvg-name="Zee News MPCG" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee News MPCG
+https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNewsMPCG.in" tvg-name="Zee News MPCG" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee News MPCG
+https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Punjabi
+https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Punjabi
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Rajasthan
+https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Rajasthan
+https://y5w8j4a9.ssl.hwcdn.net/zinguk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Smile USA
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Smile USA
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-talkies-logo.jpg" group-title="",Zee Talkies
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV
+http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee TV (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTVAPAC.in" tvg-name="Zee TV APAC" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV APAC
+https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVAPAC.in" tvg-name="Zee TV APAC" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV APAC
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVCanadaHD.in" tvg-name="Zee TV Canada HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Canada HD
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVCanadaHD.in" tvg-name="Zee TV Canada HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Canada HD
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVMiddleEast.in" tvg-name="Zee TV Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Middle East
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVMiddleEast.in" tvg-name="Zee TV Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Middle East
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVRussia.in" tvg-name="Zee TV Russia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Russia
+https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVRussia.in" tvg-name="Zee TV Russia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Russia
+https://y5w8j4a9.ssl.hwcdn.net/russia/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVUSAHD.in" tvg-name="Zee TV USA HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA HD
+https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTVUSAHD.in" tvg-name="Zee TV USA HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-world-logo.jpg" group-title="",Zee World
+https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-world-logo.jpg" group-title="",Zee World
+https://y5w8j4a9.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-name="Zee5 Originals" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Originals
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-name="Zee5 Originals" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Originals
+https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Romance
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Romance
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1,|HINDI| DESI PLUS
 http://pn.tvott.info:80/307200113544/307200113544/83717
-#EXTINF:-1,|HINDI| ZEE ACTION
-http://pn.tvott.info:80/307200113544/307200113544/83716
-#EXTINF:-1,|HINDI| ZEE TV HD
-http://pn.tvott.info:80/307200113544/307200113544/83715
-#EXTINF:-1,|HINDI| ZEE CINEMA HD
-http://pn.tvott.info:80/307200113544/307200113544/83714
 #EXTINF:-1,|HINDI| ZING
 http://pn.tvott.info:80/307200113544/307200113544/83713
 #EXTINF:-1,|HINDI| STAR BHARAT HD
@@ -876,112 +980,6 @@ http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="XploreChannel.in" tvg-name="Xplore Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee24.in" tvg-name="Zee 24" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee 24
-https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee24.in" tvg-name="Zee 24" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee 24
-https://y5w8j4a9.ssl.hwcdn.net/kalak/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Anmol Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bihar Jharkhand
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Bihar Jharkhand
-https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop (360p)
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cafe
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema Middle East
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-name="Zee Cinema Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema Middle East
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-name="Zee Cinema UK" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema UK
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUSA.in" tvg-name="Zee Cinema USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Classic
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Classic
-https://y5w8j4a9.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Marathi USA
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathiUSA.in" tvg-name="Zee Marathi USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Marathi USA
-https://y5w8j4a9.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Movies",Zee Mundo (720p)
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Music
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Music
-https://y5w8j4a9.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMPCG.in" tvg-name="Zee News MPCG" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee News MPCG
-https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMPCG.in" tvg-name="Zee News MPCG" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee News MPCG
-https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Punjabi
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Punjabi
-https://y5w8j4a9.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Rajasthan
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Rajasthan
-https://y5w8j4a9.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Smile USA
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeSmileUSA.in" tvg-name="Zee Smile USA" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Smile USA
-https://y5w8j4a9.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Talkies
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Talkies
-https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee TV (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTVAPAC.in" tvg-name="Zee TV APAC" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV APAC
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVAPAC.in" tvg-name="Zee TV APAC" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV APAC
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVCanadaHD.in" tvg-name="Zee TV Canada HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Canada HD
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVCanadaHD.in" tvg-name="Zee TV Canada HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Canada HD
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVMiddleEast.in" tvg-name="Zee TV Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Middle East
-https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVMiddleEast.in" tvg-name="Zee TV Middle East" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Middle East
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVRussia.in" tvg-name="Zee TV Russia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Russia
-https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVRussia.in" tvg-name="Zee TV Russia" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV Russia
-https://y5w8j4a9.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUSAHD.in" tvg-name="Zee TV USA HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA HD
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUSAHD.in" tvg-name="Zee TV USA HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV USA HD
-https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee World
-https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee World
-https://y5w8j4a9.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-name="Zee5 Originals" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Originals
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-name="Zee5 Originals" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Originals
-https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Romance
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee5 Romance
-https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zing
